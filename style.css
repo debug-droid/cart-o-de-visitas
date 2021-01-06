@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+}
+
+.card {
+    width: 400px;
+    height: 200px;
+    box-sizing: border-box;
+    padding: 1px 20px;
+    background: url('../assets/background.png') no-repeat;
+    background-size: cover;
+    margin: auto;
+    margin-top: 10%;
+}
+
+h1 {
+    color: #25488e;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.linkedin {
+    color: #25488e;
+    list-style-image: url('../assets/linkedin.png');
+}
+
+.github {
+    color: #25488e;
+    list-style-image: url('../assets/github.png');
+}
+
+.stack {
+    color: #25488e;
+    list-style-image: url('../assets/stack.png');
+}
